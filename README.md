@@ -1,2 +1,2 @@
 # SnakeGame
-This is console snake game with C#.
+This is simple console snake game with C#.
